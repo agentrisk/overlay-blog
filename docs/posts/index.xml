@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Overlay - Tips for Advisors</title>
+    <link>https://github.com/agentrisk/overlay-blog/posts/</link>
+    <description>Recent content in Posts on Overlay - Tips for Advisors</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Feb 2020 15:51:48 -0800</lastBuildDate>
+    
+	<atom:link href="https://github.com/agentrisk/overlay-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Helping your clients invest their tax refund</title>
+      <link>https://github.com/agentrisk/overlay-blog/posts/helping-your-clients-with-tax-refund/</link>
+      <pubDate>Fri, 21 Feb 2020 15:51:48 -0800</pubDate>
+      
+      <guid>https://github.com/agentrisk/overlay-blog/posts/helping-your-clients-with-tax-refund/</guid>
+      <description>It is an interesting pattern where people consider their tax refund as a &amp;ldquo;bonus&amp;rdquo; or &amp;ldquo;free money&amp;rdquo;. It has the same psychological effect as returning goods and feeling that you earned that money, a mentality that is detrimental to your financials.
+As advisors, we have the responsibility of making sure that our clients make financial choices that are appropriate with their wealth surface(?) and tax refunds are money that can help them achieve their financial goals faster.</description>
+    </item>
+    
+  </channel>
+</rss>
