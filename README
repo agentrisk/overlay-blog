@@ -1,0 +1,25 @@
+Step one: install hugo
+
+> brew install hugo
+
+Step two: start hugo
+
+> hugo server -D
+
+this will compile and render the files. Any updates are reflected automatically
+
+Step three: create content
+
+Go to content/posts and create a new .md file. Look the existing ones for ideas.
+
+Step four: publish
+
+Kill the server and do a 
+
+> hugo -D 
+
+This generates the public file in /docs
+
+Then, commit -a -m and push the master branch.
+
+Go here https://agentrisk.github.io/overlay-blog/ to check if everything is ok
