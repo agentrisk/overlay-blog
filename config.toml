@@ -1,4 +1,4 @@
-baseURL = "https://agentrisk.github.io/"
+baseURL = "https://agentrisk.github.io/overlay-blog/"
 languageCode = "en-us"
 title = "Overlay - Tips for Advisors"
 theme = "ananke"
