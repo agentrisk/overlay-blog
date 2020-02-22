@@ -17,7 +17,7 @@ The best strategies regarding investments are the ones that require little to no
 
 Example:
 
-![email example](/images/example-email.png)
+![email example](images/example-email.png)
 
 If the client wants us to invest that money, we can go to  [Overlay -> Settings](https://overlay.agentrisk.com/inbox), add Cash to the portfolio and then setup the rebalancing to distribute the money as you see fit. 
 
